@@ -9,7 +9,6 @@ body {
     box-sizing: border-box;
     text-align: center;
 }
-    
 
 .container {
     max-width: 600px;
@@ -105,4 +104,3 @@ jdl {
 .right-div{
     display: inline-block;
 }
-
