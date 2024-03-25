@@ -20,7 +20,7 @@ body {
 }
 
 .Kucing {
-    border: 5px #333;
+    border-top: 2px #333;
 }
 
 p {
