@@ -21,12 +21,13 @@ body {
 
 .Kucing {
     border: 2px solid black;
-    padding: 10px; 
+    padding: 10px;
+    text-align: center; 
 }
-
 
 p {
     color: #666;
+    text-align: center; 
 }
 
 img {
